@@ -1,4 +1,4 @@
-import CategoryComponent from "@/components/category";
+import CategoryComponent from "@/components/category"
 
 const Category = () => {
   return (
